@@ -1,0 +1,25 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    background: rgb(36, 35, 0);
+    background: linear-gradient(90deg, rgb(218, 217, 231) 0%, rgb(176, 176, 243) 35%, rgb(126, 202, 218) 100%);
+}
+
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+h2 {
+    color: green;
+    font-style: italic;
+    text-align: center;
+}
+
+p {
+    font-family: sans-serif;
+}
+
+ul {
+    line-height: 40px;
+}
